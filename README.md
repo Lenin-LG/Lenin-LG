@@ -29,6 +29,12 @@
   <sub style="color:#00AEEF;">Android Studio • MVVM • Retrofit • Hilt • Kotlin</sub>
 </p>
 
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,html,css,js&perline=4"><br>
+  <sub style="color:#00AEEF;">Angular • HTML • CSS • JavaScript</sub>
+</p>
+
 ### ☁️ Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git&perline=5"><br>
