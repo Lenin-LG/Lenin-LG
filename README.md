@@ -9,7 +9,7 @@
 ## 🧭 About Me
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-* 💻 **Backend & Mobile Developer** specialized in Kotlin and Spring Boot
+* 💻 **Backend  Developer** specialized in Spring Boot
 * ☁️ Experienced with **AWS (S3, EC2, RDS)** and **Dockerized microservices**
 * 📱 Creator of **Learning Another Language**, a multilingual ecosystem using Keycloak and Retrofit
 * 🔍 Interested in **Clean Architecture, DevOps, and Cloud Infrastructure**
