@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00AEEF;"><b>Hi, I'm Lenin Laura Garcia 👋</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00AEEF&size=24&center=true&vCenter=true&width=600&lines=Backend+%26+Mobile+Developer;Spring+Boot+%7C+Kotlin+%7C+AWS;Building+Clean+%26+Scalable+Systems;Always+Learning+and+Improving">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00AEEF&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%7C+Kotlin+%7C+AWS;Building+Clean+%26+Scalable+Systems;Always+Learning+and+Improving">
 </p>
 
 ---
